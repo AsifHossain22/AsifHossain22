@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Asif Hossain
 
-💻 Passionate Web Developer | Front End Specialist | Problem Solver
+💻 Passionate Web Developer | Front End Developer 
 
 ---
 
