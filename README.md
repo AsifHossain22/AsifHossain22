@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 -  I’m currently working on: **Interactive Web Projects using HTML, CSS, Bootstrap, Tailwind, JavaScript and WordPress**
 -  I’m learning: **React & Backend development**
