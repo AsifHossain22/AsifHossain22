@@ -1,10 +1,11 @@
 <div>
 
-# 👋 Hi, I'm **Asif**
+# Hi there! 👋 
+# I'm **Asif**
 ### Frontend & MERN Stack Web Developer
 
 Full Stack Developer who builds **modern, responsive & interactive web applications**  
-Passionate about clean code, creative UI/UX, and solving real-world problems.
+Passionate about clean code, creative UI/UX and solving real-world problems. I believe a good website should be easy to use and help your business grow. I’m not here to impress — I’m here to deliver. Let’s create something great, together.
 
 🌐 **Visit my Portfolio:** https://web-developer-asif.netlify.app/  
 📫 **Reach me:** only1asif4you22@gmail.com 
@@ -15,9 +16,9 @@ Passionate about clean code, creative UI/UX, and solving real-world problems.
 
 ## 🚀 About Me
 
-I’m a dedicated **Frontend & MERN Stack Developer** looking to build scalable web apps  
-that are polished, performant and delightful to use. I love experimenting with new  
-technologies and building projects that solve real problems.
+I’m a self-taught web developer who started this journey with curiosity and turned it into a strong passion for building modern, clean and scalable web applications. I believe learning never stops. Every project I work on helps me grow — not just as a developer, but as a problem solver who understands real-world needs. I focus on writing maintainable code, creating smooth user experiences and continuously improving my skills so I can deliver better results for my clients.
+
+My goal is simple: learn fast, build smart and help businesses grow through technology.
 
 ---
 
@@ -46,7 +47,7 @@ technologies and building projects that solve real problems.
 
 ---
 
-## 🧑‍💻 Currently Learning
+## 🖥️ Currently Learning
 
 - Advanced React Patterns & Next.js  
 - Web Performance Optimization  
