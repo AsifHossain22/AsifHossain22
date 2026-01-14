@@ -41,7 +41,7 @@ My goal is simple: learn fast, build smart and help businesses grow through tech
 
 <p>🌐 Website: https://web-developer-asif.netlify.app/</p> 
 <p>📨 Email: only1asif4you22@gmail.com</p>
-<p>🔗 LinkedIn: linkedin.com/in/asifhossain22</p>
+<p>🔗 LinkedIn: https://www.linkedin.com/in/asifhossain22/</p>
 <p>🐦 Twitter: https://x.com/_AsifHossain22</p>
 <p>📸 Facebook: https://www.facebook.com/hiasif22</p>
 
