@@ -62,6 +62,12 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 
 ---
 
+# Quote
+
+"Consistency beats talent when talent doesn't stay consistent."
+
+---
+
 # Currently Learning
 - Next.js (App Router & Server Actions)
 - Advanced React Patterns
