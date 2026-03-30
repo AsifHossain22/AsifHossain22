@@ -45,7 +45,7 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 
 # GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=AsifHossain22&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifHossain22&layout=compact&hide_border=true&hide_title=true" alt="Top Languages" />
 </p>
@@ -54,7 +54,7 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 
 # GitHub Streak
 
-<p align="center">
+<p>
 
 <img src="https://streak-stats.demolab.com/?user=AsifHossain22" />
 
