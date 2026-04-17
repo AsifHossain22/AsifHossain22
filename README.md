@@ -47,7 +47,7 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 
 <div>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150" />
+![GitHub Streak](https://streak-stats.demolab.com?user=AsifHossain22&theme=tokyonight&hide_border=true)
 
 </div>
 
