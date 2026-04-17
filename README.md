@@ -46,8 +46,8 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 # GitHub Streak
 
 <div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AsifHossain22&theme=tokyonight&hide_border=true)
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=AsifHossain22&theme=default&hide_border=true)
 
 </div>
 
