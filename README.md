@@ -45,11 +45,11 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 
 # GitHub Streak
 
-<p>
+<div>
 
-<img src="https://streak-stats.demolab.com/?user=AsifHossain22" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150" />
 
-</p>
+</div>
 
 ---
 
