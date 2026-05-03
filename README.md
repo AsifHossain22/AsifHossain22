@@ -56,6 +56,8 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 
 # Quote
 
+“I'm not better than anyone but different from the rest. I focus on my own growth, not others success.”
+
 “Growth happens when you keep going even on the days your heart feels tired, choosing discipline over comfort and hope over fear. Consistency beats talent when talent doesn't stay consistent.”
 
 ---
