@@ -16,8 +16,9 @@ Currently expanding my skills to become a **MERN Stack Developer**.
 
 My journey into web development started in **December 2022** after I bought my first laptop with savings from working abroad as a Sales Representative. I had dreamed of becoming a Web Developer since 2019 and that experience built my **discipline, adaptability and problem-solving skills**.
 
-I have hands-on experience building **responsive, user-focused web applications** with **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, WordPress, React and Next.js**.  
-Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB** to become a full-stack MERN developer.
+I have hands-on experience building **responsive, user-focused web applications** with **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, WordPress, React and Next.js**. 
+
+Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB** to become a **Full-Stack MERN** developer.
 
 ---
 
