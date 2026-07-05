@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Hi ASIF.png" alt="Asif Hossain Banner" />
+  <img src="Asif Hossain.png" alt="Asif Hossain Banner" />
 </p>
 <p align="center">
 📍 Dubai, United Arab Emirates<br>
