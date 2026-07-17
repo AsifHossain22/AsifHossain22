@@ -36,12 +36,6 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-
-
-
-
-
-
 ### Backend & Database
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -64,6 +58,9 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 <div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AsifHossain22)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=AsifHossain22&theme=default&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsifHossain22&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
