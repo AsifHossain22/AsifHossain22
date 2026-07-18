@@ -57,7 +57,6 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 
 <div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AsifHossain22)](https://git.io/streak-stats)
 ![](https://streak-stats.demolab.com/?user=AsifHossain22&theme=default&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsifHossain22&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
