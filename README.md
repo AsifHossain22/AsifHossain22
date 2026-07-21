@@ -84,7 +84,7 @@ And I'm currently expanding my backend skills with **TypeScript, Node.js, Expres
 
 <div>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:only1asif4you22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiasifhossain22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifhossain22/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://web-developer-asif.netlify.app/)
 
