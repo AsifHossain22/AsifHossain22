@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Asif Hossain.png" alt="Asif Hossain Banner" />
+  <img src="Asif-Banner.png" alt="Asif Hossain Banner" />
 </p>
 <p align="center">
 📍 Dubai, United Arab Emirates<br>
@@ -11,14 +11,11 @@
 
 # About Me
 
-I'm a **Frontend Web Developer** specializing in **JavaScript, React, Next.js** and modern web technologies.  
-Currently expanding my skills to become a **MERN Stack Developer**.
+My journey into web development started in **December, 2022** after I bought my first laptop with savings from working abroad as a **Office Assistant** in a private company in **September, 2022**. I had dreamed of becoming a **Web Developer** since **2019** and that experience built my **discipline, adaptability and problem-solving skills**.
 
-My journey into web development started in **December 2022** after I bought my first laptop with savings from working abroad as a Sales Representative. I had dreamed of becoming a Web Developer since 2019 and that experience built my **discipline, adaptability and problem-solving skills**.
+I'm a **Frontend Web Developer** specializing in **JavaScript and React.** I have experience building responsive web applications using **HTML, CSS, Bootstrap, Tailwind, JavaScript, React and MongoDB.** 
 
-I have hands-on experience building **responsive, user-focused web applications** with **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, WordPress, React and Next.js**. 
-
-Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB** to become a **Full-Stack MERN** developer.
+And I'm currently expanding my backend skills with **TypeScript, Node.js, Express.js, Next.js, PostgreSQL and Prisma** to become a Full Stack Web Developer.
 
 ---
 
@@ -74,9 +71,12 @@ Right now I'm mastering the backend side with **Node.js, Express.js and MongoDB*
 ---
 
 # Currently Learning
-- Next.js (App Router & Server Actions)
-- Advanced React Patterns
-- Full Stack MERN Development
+- **TypeScript**
+- **Node.js**
+- **Express.js**
+- **Next.js**
+- **PostgreSQL**
+- **Prisma**
 
 ---
 
