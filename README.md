@@ -13,9 +13,9 @@
 
 My journey into web development started in **December, 2022** after I bought my first laptop with savings from working abroad as a **Office Assistant** in a private company in **September, 2022**. I had dreamed of becoming a **Web Developer** since **2019** and that experience built my **discipline, adaptability and problem-solving skills**.
 
-I'm a **Frontend Web Developer** specializing in **JavaScript and React.** I have experience building responsive web applications using **HTML, CSS, Bootstrap, Tailwind, JavaScript, React and MongoDB.** 
+I'm a **Full Stack Web Developer** specializing in **JavaScript and React.** I have experience building responsive web applications using **HTML, CSS, Bootstrap, Tailwind, JavaScript, React and MongoDB.** 
 
-And I'm currently expanding my backend skills with **TypeScript, Node.js, Express.js, Next.js, PostgreSQL and Prisma** to become a Full Stack Web Developer.
+And I'm currently expanding my backend skills with **TypeScript, Node.js, Express.js, Next.js, PostgreSQL and Prisma.**
 
 ---
 
