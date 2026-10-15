@@ -11,11 +11,28 @@
 
 # About Me
 
-My journey into web development started in **December, 2022** after I bought my first laptop with savings from working abroad as a **Office Assistant** in a private company in **September, 2022**. I had dreamed of becoming a **Web Developer** since **2019** and that experience built my **discipline, adaptability and problem-solving skills**.
+I'm a **Full Stack Web Developer** passionate about building responsive, user-friendly and scalable web applications that solve real-world problems.
 
-I'm a **Full Stack Web Developer** specializing in **JavaScript and React.** I have experience building responsive web applications using **HTML, CSS, Bootstrap, Tailwind, JavaScript, React and MongoDB.** 
+My journey into web development began in December 2022, driven by a dream I've had since 2019. While working abroad as an Office Assistant, I invested my savings in my first laptop and started turning that dream into a practical skill. That experience taught me the value of discipline, consistency, adaptability and learning through challenges.
 
-And I'm currently expanding my backend skills with **TypeScript, Node.js, Express.js, Next.js, PostgreSQL and Prisma.**
+### What I Do
+
+- **Frontend Development:** Building responsive and accessible user interfaces with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React.
+- **Backend Development:** Developing server-side applications and RESTful APIs using Node.js, Express.js and TypeScript.
+- **Databases & ORM:** Working with MongoDB and PostgreSQL with Prisma for type-safe database access.
+- **Modern Web Development:** Expanding my expertise in Next.js, application architecture, API integration, authentication and full-stack development practices.
+
+### My Approach
+
+I believe good software is more than code that works. It's about writing maintainable code, solving problems thoughtfully, creating inbuilt user experiences and continuously improving through feedback and hands-on projects.
+
+I'm committed to make stronger my engineering skills, building meaningful projects and collaborating with people who value curiosity, ownership and continuous learning.
+
+### My Goal
+
+I'm looking to contribute to a forward-thinking team where I can build useful products, take on meaningful technical challenges and grow as a **Full Stack Web Developer.**
+
+**Learn something new. Build something meaningful. Become better every day.**
 
 ---
 
@@ -64,9 +81,9 @@ And I'm currently expanding my backend skills with **TypeScript, Node.js, Expres
 
 # Quote
 
-“I'm not better than anyone but different from the rest. I focus on my own growth, not others success.”
+“I'm not better than **anyone** but **different** from the rest. I focus on **my own growth,** not others success.”
 
-“Growth happens when you keep going even on the days your heart feels tired, choosing discipline over comfort and hope over fear. Consistency beats talent when talent doesn't stay consistent.”
+“Growth happens when you **keep going** even on the days your heart feels tired, choosing **discipline** over comfort and **hope** over fear. **Consistency** beats talent when talent doesn't stay consistent.”
 
 ---
 
