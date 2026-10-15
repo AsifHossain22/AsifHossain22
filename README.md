@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Asif-Banner.png" alt="Asif Hossain Banner" />
+  <img src="Asif-Banner.png" alt="Hi ASIF Hero Banner" />
 </p>
 <p align="center">
 📍 Dubai, United Arab Emirates<br>
@@ -32,7 +32,7 @@ I'm committed to make stronger my engineering skills, building meaningful projec
 
 I'm looking to contribute to a forward-thinking team where I can build useful products, take on meaningful technical challenges and grow as a **Full Stack Web Developer.**
 
-**Learn something new. Build something meaningful. Become better every day.**
+**Learn something new. Build something meaningful. Become better everyday.**
 
 ---
 
