@@ -49,14 +49,26 @@ I'm looking to contribute to a forward-thinking team where I can build useful pr
 
 ---
 
+# GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+# GitHub Statistics:
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=AsifHossain22&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a>
+
 # GitHub Streak
 
 <div>
 
-![](https://streak-stats.demolab.com/?user=AsifHossain22&theme=default&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=AsifHossain22&theme=default&hide_border=false)
+
+</div>
+
+# Most Used Languages
+
+<div>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsifHossain22&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  
 </div>
 
 ---
