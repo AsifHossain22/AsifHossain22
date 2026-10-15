@@ -39,13 +39,13 @@ I'm looking to contribute to a forward-thinking team where I can build useful pr
 # Tech Stack
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,nextjs,ts)](https://skillicons.dev)
 
 ### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,firebase,postgres,prisma,mongodb,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgres,prisma,mongodb,redis)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime,postman,wordpress,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime,figma,postman,wordpress,)](https://skillicons.dev)
 
 ---
 
