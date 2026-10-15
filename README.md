@@ -61,6 +61,12 @@ I'm looking to contribute to a forward-thinking team where I can build useful pr
 
 ---
 
+# Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=AsifHossain22&style=flat-square)
+
+---
+
 # Quote
 
 “I'm not better than **anyone** but **different** from the rest. I focus on **my own growth,** not others success.”
